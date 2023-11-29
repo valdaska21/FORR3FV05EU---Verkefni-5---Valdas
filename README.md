@@ -1,7 +1,7 @@
 # FORR3FV05EU---Verkefni-5---Valdas
 ---
 ## Upplýsingar um höfunda, áfanga og skóla.
-**NAFN:** Valdas Kaubrys  
+* **NAFN:** Valdas Kaubrys*  
 **SKÓLI:** Upplýsingatækniskólinn - Tækniskólinn  
 **ÁFANGI:** FORR3FV05EU  
 ---
