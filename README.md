@@ -18,7 +18,7 @@
 
 Gleymdi að taka myndir af ferlinu :\  en lokin eru þó svona:
 
-
+https://github.com/valdaska21/FORR3FV05EU---Verkefni-5---Valdas/blob/main/%5BFREE%20-%20HDconvert.com%5D%20scrnli_12_5_2023_6-16-27%20PM.mp4 
 
 ---
 ## Greinagerð um tæknileg atriði er viðkemur frumgerð (hvað var gert og notað) ásamt heimildum.
