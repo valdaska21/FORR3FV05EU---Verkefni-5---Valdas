@@ -83,7 +83,7 @@
         // Attempt to get user's location
         function getUserLocation() {
             if (navigator.geolocation) {
-                navigator.geolocation.watchPosition(
+                navigator.geolocation.getCurrentPosition(
                     position => {
                         const userCoordinates = [position.coords.longitude, position.coords.latitude];
                         map.getSource('dot-point').setData({
@@ -184,6 +184,15 @@
         return true;
         }
         };
+
+        // Function to handle button visibility
+        function toggleButtonVisibility() {
+            const button = document.getElementById('locateButton');
+            if (button) {
+                const isFullscreen = map.isFullscreen();
+                button.style.display = isFullscreen ? 'none' : 'block';
+            }
+        }
 
         map.on('load', () => {
             map.addImage('pulsing-dot', pulsingDot, { pixelRatio: 2 });
