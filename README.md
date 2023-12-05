@@ -36,6 +36,7 @@
   - *https://docs.mapbox.com/mapbox-gl-js/example/fullscreen/*
   - *https://docs.mapbox.com/mapbox-gl-js/example/add-image-animated/*
   - *https://docs.mapbox.com/mapbox-gl-js/example/flyto/*
+  - *https://chat.openai.com/*
 
 ---
 ## Útkoman. Hvernig til tókst, hver væru næstu skref ef haldið væri áfram þróun frumgerðar.
