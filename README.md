@@ -16,13 +16,17 @@
 ---
 ## Myndir og myndbönd af verkferli, frumgerð og notkun þess.
 
+Gleymdi að taka myndir af ferlinu :\  en lokin eru þó svona:
+
+
+
 ---
 ## Greinagerð um tæknileg atriði er viðkemur frumgerð (hvað var gert og notað) ásamt heimildum.
 
 - JavaScript API Mapbox til að kortleggja virkni.
 - API frá Mapbox og USGS fyrir staðsetningarþjónustu og jarðskjálftagögn í rauntíma.
 - Ytri bókasöfn eins og efnistákn, Mapbox Geocoder og Mapbox Directions.
-- - **Heimildir**:
+- **HEIMILDIR**:
   - *https://docs.mapbox.com/mapbox-gl-js/example/flyto/*
   - *https://www.latlong.net/*
   - *https://docs.mapbox.com/mapbox-gl-js/example/live-geojson/*
@@ -41,13 +45,12 @@
 ---
 ## Útkoman. Hvernig til tókst, hver væru næstu skref ef haldið væri áfram þróun frumgerðar.
 
-Innleiðingin virðist vel heppnuð við að samþætta Mapbox virkni og sýna rauntímagögn. Fyrir frekari þróun:
+Byrjunin virðist vel heppnuð við að búa til Mapbox map virkni og sýna rauntímagögn. Fyrir frekari þróun:
 
-- Bættu samskipti notenda með því að bæta við verkfæraleiðbeiningum eða sprettiglugga fyrir jarðskjálftagögn.
-- Innleiða þyrping til að sýna betur þétta staði jarðskjálfta.
-- Bættu notendaviðmótið með því að bæta við fleiri stjórntækjum eða bæta þær sem fyrir eru.
-- Fínstilltu kóðann fyrir frammistöðu og íhugaðu aðgengiseiginleika fyrir breiðari notendahóp.
-- Áframhaldandi þróun gæti falið í sér að betrumbæta núverandi eiginleika, bæta við fleiri gagnalögum eða virkni og tryggja notagildi kortsins í mismunandi tækjum og vöfrum.
+- Bæta við upplifun notenda með því að bæta við pop-up glugga sem sýnir ýtarlegri upplýsingar um jarðskjálftana.
+- Bæta notendaviðmótið með því að bæta við fleiri stjórntökkum(*controls*) eða gera stjórntakkana betri og flottari.
+- Fínstilla kóðann fyrir markaðinn og íhuga aðgengiseiginleika fyrir breiðari notendahóp.
+- Áframhaldandi þróun gæti falið í sér að betrumbæta núverandi eiginleika, bæta við fleiri gagnasöfnum eða virkni og tryggja notagildi kortsins í mismunandi tækjum og vöfrum.
 
 ## Slóð á GitHub sem hýsir allt innihald.
 
