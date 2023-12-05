@@ -41,6 +41,14 @@
 ---
 ## Útkoman. Hvernig til tókst, hver væru næstu skref ef haldið væri áfram þróun frumgerðar.
 
+Innleiðingin virðist vel heppnuð við að samþætta Mapbox virkni og sýna rauntímagögn. Fyrir frekari þróun:
+
+- Bættu samskipti notenda með því að bæta við verkfæraleiðbeiningum eða sprettiglugga fyrir jarðskjálftagögn.
+- Innleiða þyrping til að sýna betur þétta staði jarðskjálfta.
+- Bættu notendaviðmótið með því að bæta við fleiri stjórntækjum eða bæta þær sem fyrir eru.
+- Fínstilltu kóðann fyrir frammistöðu og íhugaðu aðgengiseiginleika fyrir breiðari notendahóp.
+- Áframhaldandi þróun gæti falið í sér að betrumbæta núverandi eiginleika, bæta við fleiri gagnalögum eða virkni og tryggja notagildi kortsins í mismunandi tækjum og vöfrum.
+
 ## Slóð á GitHub sem hýsir allt innihald.
 
 https://github.com/valdaska21/FORR3FV05EU---Verkefni-5---Valdas/tree/main/docs
