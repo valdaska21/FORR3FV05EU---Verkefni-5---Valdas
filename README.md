@@ -6,7 +6,7 @@
 - **ÁFANGI:** FORR3FV05EU  
 ---
 ## Stutt verkefnalýsing.
-
+Mapbox verkefni. Interaktíft og farsímavænt.
 ---
 ## Myndir og myndbönd af verkferli, frumgerð og notkun þess.
 
